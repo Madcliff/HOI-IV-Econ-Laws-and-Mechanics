@@ -1,4 +1,4 @@
-state_upgrade = {
+﻿state_upgrade = {
 	every_owned_state = { 
 		limit = {
 			not = { 
