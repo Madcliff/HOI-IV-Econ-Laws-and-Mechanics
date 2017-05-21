@@ -1,5 +1,5 @@
 name="New Econ Laws"
-path="mod/econlawsmod/"
+path="mod/HOI-IV-Econ-Laws-and-Mechanics/econlawsmod/"
 tags={
 	"Events"
 	"Balance"
