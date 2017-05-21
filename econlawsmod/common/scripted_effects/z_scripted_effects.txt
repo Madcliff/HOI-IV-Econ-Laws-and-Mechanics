@@ -1,0 +1,128 @@
+#	Example:
+# 
+#	example_effect = {
+#		add_political_power = 66
+#		add_popularity = {
+#			ideology = fascism
+#			popularity = 0.33
+#		}
+#	}
+#
+#
+#	In a script file:
+#
+#	effect = {
+#		example_effect = yes
+#	}
+#
+
+z_add_resource = { 
+	every_owned_state = { 
+		limit = {
+			infrastructure > 9
+		}
+		remove_building = { type = infrastructure level = 5 }
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = oil
+					amount > 1
+				}
+			}
+			add_resource = { type = oil amount = 1 }
+		}
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = chromium
+					amount > 1
+				}
+			}
+			add_resource = { type = chromium amount = 1 }
+		}
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = steel
+					amount > 1
+				}
+			}
+			add_resource = { type = steel amount = 1 }
+		}
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = aluminium
+					amount > 1
+				}
+			}
+			add_resource = { type = aluminium amount = 1 }
+		}
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = tungsten
+					amount > 1
+				}
+			}
+			add_resource = { type = tungsten amount = 1 }
+		}
+		if = { 
+			limit = { 
+				has_resources_amount = {
+					resource = rubber
+					amount > 1
+				}
+			}
+			add_resource = { type = rubber amount = 1 }
+		}
+	}
+}
+
+clr_flags = { 
+	clr_country_flag = conference_vote_@ROOT
+
+}
+
+z_tank_production = { 
+
+}
+z_small_arms_production = {
+
+}
+
+z_support_weapons_production = { 
+
+}
+
+z_arty_production = { 
+
+}
+
+z_naval_aviation_production = { 
+
+}
+
+z_fighter_production = { 
+	
+}
+
+z_bomber_production = { 
+
+}
+
+z_convoy_production = { 
+
+
+}
+
+z_screens_production = { 
+
+}
+z_capital_ship_production = {
+
+}
+
+z_sub_production = {
+
+}

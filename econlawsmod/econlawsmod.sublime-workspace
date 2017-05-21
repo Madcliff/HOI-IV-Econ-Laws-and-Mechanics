@@ -1,0 +1,710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"limi",
+				"limit"
+			],
+			[
+				"set",
+				"set_country_flag"
+			],
+			[
+				"vot",
+				"conference_vote"
+			],
+			[
+				"is_",
+				"is_puppet_of"
+			],
+			[
+				"confer",
+				"conference_vote"
+			],
+			[
+				"country",
+				"country_event"
+			],
+			[
+				"as",
+				"aus_vote"
+			],
+			[
+				"has",
+				"has_country_flag"
+			],
+			[
+				"war",
+				"war_volunteers"
+			],
+			[
+				"lib",
+				"requiredLibrary"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/manntoto_mod/common/defines/00_defines.lua",
+			"settings":
+			{
+				"buffer_size": 99607,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common/ideas/zz_econ_laws.txt",
+			"settings":
+			{
+				"buffer_size": 10502,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common/ideas/zz_production_material.txt",
+			"settings":
+			{
+				"buffer_size": 18212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common/ideas/zz_country_rules.txt",
+			"settings":
+			{
+				"buffer_size": 2704,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common/ideas/zz_political_acts.txt",
+			"settings":
+			{
+				"buffer_size": 5142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "events/industrylaw.txt",
+			"settings":
+			{
+				"buffer_size": 2718,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/idea_tags",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/scripted_effects",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/scripted_triggers",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/interface",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/localisation"
+	],
+	"file_history":
+	[
+		"/C/Users/Maddi/AppData/Local/Temp/Temp1_Control (1).zip/setup.ini",
+		"/D/onedrive/Documents/Settings_RT-AC5300.CFG",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/40buldings/interface/countrystateview.gui",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/40buldings/common/defines/buidlings.lua",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/scripted_effects/z_state_upgrade.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/researchboost.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/localisation/laws_l_english.yml",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/idea_tags/zara_idea.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/common/ideas/_economic.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_working_laws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_production_tooling.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_production_priorities.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/z_counter_intelligence.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/z_cipher_schools.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Vanilla++.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/manntoto_mod/common/defines/00_defines.lua",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/imperialconference.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/take_iraq.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/scripted_effects/z_scripted_effects.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_ministry_of_information.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/idea_tags/00_idea.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/fkce/fkce-M.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/fkce/descriptor.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_work_laws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/stand_army_warhammer.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_socialwelfare.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_workinglaws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_production_material.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/common/unit_tags/00_categories.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_political_acts.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/Magic_non_combat_testing/decisions/z_magic_menu.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_researchlaws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/zz_social_welfare.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/econ_laws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/working_laws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/resource_extraction.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/research_laws.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/mechanics.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/social_welfare.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/ministry_of_information.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/scripted_triggers/zz_trigger.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/resourceboost.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/ideas/political_acts.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/coring.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/brit_focus_vanilla/common/national_focus/uk.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/brit_focus_vanilla/events/annex_empire.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/imperialconfernece.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/industrylaw.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_720937262.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_720937262-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_699982858-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_700675119-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_704857153.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_726036596-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_781628958.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_703954579-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_704857153-Libre.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_705095915.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_706817405.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_707529322.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_721357320.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_723605375.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_726036596.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/churchill.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_748970320.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_756097675.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_703954579.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/infrastructureact.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/events/Z_2_tzeentch_lore.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/events/Z_2_slaanesh_lore.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/events/Z_2_nurgle_lore.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/history/countries/TUR - Turkey.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/events/duel_engine.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/interface/countrylogisticsview.gui",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/interface/countrypoliticsview.gfx",
+		"/D/onedrive/Documents/Paradox Interactive/Crusader Kings II/mod/warhammer_working/geheimnisnacht/events/duel_actions.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/interface/countrypoliticsview.gui",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/interface/countrypoliticsview.gui",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/interface/countrytechtreeview.gui",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/interface/countryproductionlineview.gui",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/interface/strategicairview.gui",
+		"/C/Users/Maddi/AppData/Local/Temp/Temp1_biggerproduction_2.zip/interface/countryproductionlineview.gui",
+		"/C/Program Files (x86)/Steam/steamapps/common/Knights of the Old Republic II/swkotor2.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/interface/strategicairview.gfx",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/industryact.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/common/defines/00_defines.lua",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/militaryact.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/navalact.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/events/franceunion.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/421-Kurdistan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/420-Gilan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/419-Azerbaijan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/418-Semnan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/417-Golestan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/414-Kerman.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Expanded Industry/common/defines/expind_def.lua",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/416-Razavi Khorasan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/266-Persia.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/410-Sistan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/413-Khuzestan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/412-Fars.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/resources/history/states/411-Hormozgan.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/Expanded Industry/interface/countrystateview.gfx",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/40buldings/interface/countrystateview.gfx",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_703234185.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_700690090.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_700675119.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_700362614.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_699982858.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/ugc_698861160.mod",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/buildings/zz_buildings",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/history/states/6-Belgium.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/common/idea_tags/z_idea.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/econlawsmod/interface/countrypoliticsview.gfx",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hearts of Iron IV/common/ideas/britain.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/common/national_focus/uk.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/dump/uk.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/events/annex_empire.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/common/ideas/annex_ideas.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/events/industrylaw.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/events/resourceboost.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/events/researchboost.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/common/ideas/_economic.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/madmod/localisation/annex_empire_l_english.yml",
+		"/C/Users/Maddi/AppData/Local/Temp/Temp1_apres_moi_le_deluge.zip/interface/countrypoliticsview.gfx",
+		"/C/Users/Maddi/AppData/Local/Temp/Temp1_apres_moi_le_deluge.zip/interface/frontendgamesetupview.gui",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/carrier_jets/common/units/cv_fighter.txt",
+		"/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/carrier_jets/common/units/air.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt",
+			"D:\\onedrive\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\resources\\history\\states",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt,C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\,D:\\onedrive\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\resources\\history\\states",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt,C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt,C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\bu",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt,C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\common",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events,*.txt",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\events",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV\\eventshshas"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slots",
+			"production_",
+			"xp",
+			"xp ",
+			"air",
+			"200",
+			"carrier",
+			"work",
+			"is_puppet_of = ENG",
+			"political_power_gain = -0.01",
+			"core",
+			"add_core",
+			"ire",
+			"act",
+			"resource",
+			"country",
+			"default",
+			"vol",
+			"necromancy_lore",
+			"tooling",
+			".106",
+			"rese",
+			"05",
+			"close",
+			"slot",
+			"slots = ",
+			"slot",
+			"politic",
+			"political",
+			"politics",
+			"IDEA",
+			"high",
+			"naval",
+			"miss",
+			"2000",
+			"TAG = ENG",
+			"resources",
+			"political_ac",
+			"political",
+			"PER",
+			"political",
+			"cor",
+			"coring",
+			"rule =",
+			"building_slot",
+			"slot",
+			"effect = z_add_resource",
+			"political",
+			"polit",
+			"polt",
+			"political_",
+			"political_adv",
+			"political",
+			"has_built",
+			"infra",
+			"fort",
+			"idea",
+			"resea",
+			"mission",
+			"2 = {",
+			"core",
+			"research",
+			"oil",
+			"integrint",
+			"integr",
+			"integra",
+			"jet",
+			"cas",
+			"jet",
+			"empire",
+			"reint",
+			"= 2",
+			"x = 60",
+			"integr",
+			"slot",
+			"reint",
+			"canada",
+			"south",
+			"infra",
+			"95",
+			"ivory",
+			"lib",
+			"jar",
+			"configuration",
+			"depend",
+			"minecraft",
+			"buildscript",
+			"lib",
+			"cost",
+			"50",
+			"5000",
+			"psi",
+			"PSI",
+			"getTotalPsi",
+			"totalpsi",
+			"psi",
+			"level",
+			"research_time_factor = -0.05",
+			"research_boost",
+			"heavy_industry",
+			"heavy",
+			"industry",
+			"artill",
+			"HEAVY_INDU",
+			"ireland",
+			"india",
+			"british",
+			"x =",
+			"norwe",
+			"south",
+			"alatar",
+			"elrond",
+			"psych",
+			"event",
+			"state"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"has_country_flag = commonwealth",
+			"political_power_gain = -0.1",
+			"nurgle_lore",
+			"slaanesh_lore",
+			"tzeentch_lore",
+			"original_tag = ENG",
+			"z_add_resource = yes",
+			"10 = {",
+			"production_speed_buildings_factor = 0.10",
+			"construction_boost"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/onedrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/manntoto_mod/common/defines/00_defines.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16360,
+								16360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3239.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "common/ideas/zz_econ_laws.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10502,
+								10502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Paradox/Paradox.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "common/ideas/zz_production_material.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14425,
+								14425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "common/ideas/zz_country_rules.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2255,
+								2255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "common/ideas/zz_political_acts.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4023,
+								4023
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5313.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "events/industrylaw.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2712,
+								2712
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2568.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "econlawsmod.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\onedrive\\Documents\\Paradox Interactive\\Hearts of Iron IV\\mod\\madmod\\britmod project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 555.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
